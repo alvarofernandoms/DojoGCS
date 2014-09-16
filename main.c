@@ -5,4 +5,5 @@ void main(){
 
 	printf("Adeus mundo!\n");
 
+	printf("Testando git\n");
 }
