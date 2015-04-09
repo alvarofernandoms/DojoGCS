@@ -6,4 +6,9 @@ void main(){
 	printf("Adeus mundo!\n");
 
 	printf("Testando git\n");
+	printf("Testando git\n");
+	printf("Testando git\n");
+	printf("Testando git\n");
+	printf("Testando git\n");
+	printf("Testando git\n");
 }
